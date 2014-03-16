@@ -1,0 +1,13 @@
+{
+     "name": "unisharp-message-server",
+     "description": "Unisharp chat message server",
+     "version": "0.0.1",
+     "dependencies": {
+        "express": "3.3.4",
+        "socket.io": "0.9.16",
+        "redis": "0.8.4",
+        "hiredis": "0.1.15",
+        "socket.io-client": "0.9.16",
+        "validator":"1.4.0"
+     }
+}
