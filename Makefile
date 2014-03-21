@@ -4,7 +4,7 @@ install:
 	npm install
 
 compile:
-	lsc -c server.ls
+	./node_modules/.bin/lsc -c server.ls
 
 run:
 	node server.js
