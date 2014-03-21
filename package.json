@@ -3,6 +3,7 @@
      "description": "Unisharp chat message server",
      "version": "0.0.1",
      "dependencies": {
+        "LiveScript": "1.2.x",
         "express": "3.3.4",
         "socket.io": "0.9.16",
         "redis": "0.8.4",
